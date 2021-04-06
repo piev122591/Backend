@@ -1,0 +1,24 @@
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Domain.deps.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Domain.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Domain.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.csprojAssemblyReference.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.AssemblyInfoInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.AssemblyInfo.cs
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.csproj.CoreCompileInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.csproj.CopyComplete
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Domain.deps.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Domain.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Domain.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.csprojAssemblyReference.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.AssemblyInfoInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.AssemblyInfo.cs
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.csproj.CoreCompileInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.csproj.CopyComplete
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Domain\obj\Debug\netcoreapp3.1\Maestro.Domain.pdb

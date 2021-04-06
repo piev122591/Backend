@@ -1,0 +1,28 @@
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Authentication.deps.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Authentication.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Authentication.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.csprojAssemblyReference.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.AssemblyInfoInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.AssemblyInfo.cs
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.csproj.CoreCompileInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.csproj.CopyComplete
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Authentication.deps.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Authentication.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Authentication.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.csprojAssemblyReference.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.AssemblyInfoInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.AssemblyInfo.cs
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.csproj.CoreCompileInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.csproj.CopyComplete
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Authentication\obj\Debug\netcoreapp3.1\Maestro.Authentication.pdb

@@ -1,0 +1,17 @@
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.deps.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.AssemblyInfoInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.AssemblyInfo.cs
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.csproj.CoreCompileInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.deps.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.AssemblyInfoInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.AssemblyInfo.cs
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.csproj.CoreCompileInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.Shared.DatabaseAttributes\obj\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.csprojAssemblyReference.cache

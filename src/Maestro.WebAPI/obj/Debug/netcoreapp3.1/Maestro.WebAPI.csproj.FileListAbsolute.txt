@@ -1,0 +1,108 @@
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.exe
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.deps.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.runtimeconfig.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.runtimeconfig.dev.json
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.AssemblyInfoInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.AssemblyInfo.cs
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.csproj.CoreCompileInputs.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Maestro.WebAPI.StaticWebAssets.Manifest.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Maestro.WebAPI.StaticWebAssets.xml
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Maestro.WebAPI.styles.css
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.genruntimeconfig.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Core.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Domain.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Core.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Domain.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.csprojAssemblyReference.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.csproj.CopyComplete
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.Persistence.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.Persistence.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.exe
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.deps.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.runtimeconfig.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.runtimeconfig.dev.json
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.WebAPI.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Core.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Domain.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.Persistence.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Core.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.Persistence.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Infrastructure.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Domain.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Shared.DatabaseAttributes.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.csprojAssemblyReference.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.AssemblyInfoInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.AssemblyInfo.cs
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.csproj.CoreCompileInputs.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Maestro.WebAPI.StaticWebAssets.Manifest.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Maestro.WebAPI.StaticWebAssets.xml
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Maestro.WebAPI.styles.css
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.csproj.CopyComplete
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\obj\Debug\netcoreapp3.1\Maestro.WebAPI.genruntimeconfig.cache
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Authentication.dll
+C:\Maestro\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Authentication.pdb
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Authentication.dll
+C:\Auditmacs Project\Maestro.AdminPortal\src\Maestro.WebAPI\bin\Debug\netcoreapp3.1\Maestro.Authentication.pdb

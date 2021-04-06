@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Maestro.Domain/1.0.0": {
+        "dependencies": {
+          "Maestro.Shared.DatabaseAttributes": "1.0.0"
+        },
+        "runtime": {
+          "Maestro.Domain.dll": {}
+        }
+      },
+      "Maestro.Shared.DatabaseAttributes/1.0.0": {
+        "runtime": {
+          "Maestro.Shared.DatabaseAttributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maestro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maestro.Shared.DatabaseAttributes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
